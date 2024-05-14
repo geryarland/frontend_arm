@@ -1,0 +1,275 @@
+[33mcommit 0b9f99005cc597ff97a1a8d7f743de05ac37791e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mHenshammi[m[33m)[m
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Tue Apr 30 16:54:57 2024 +0700
+
+    fix
+
+[33mcommit d934d079ee07ecc608510bf5e2bb73f443719421[m
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Tue Apr 30 11:20:45 2024 +0700
+
+    update merge vii
+
+[33mcommit df3eed104b9e8befe2313b35cd8d76b7dc447278[m
+Merge: e51b1c6 efc4d53
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Tue Apr 30 10:36:29 2024 +0700
+
+    Merge remote-tracking branch 'origin/vii' into Nadhief
+
+[33mcommit e51b1c63fc98ad7149662ae131dfae11fcdfb88f[m
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Tue Apr 30 10:35:49 2024 +0700
+
+    fix bug
+
+[33mcommit efc4d53fd7b1cbf69620764a3fb0e9ebd4843d6b[m
+Author: Vil <v.andhira16@gmail.com>
+Date:   Tue Apr 30 04:07:01 2024 +0700
+
+    update tab BuatDisposisi
+
+[33mcommit c161096868f6a31a766077d50d721866a5db3172[m
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Mon Apr 29 15:18:29 2024 +0700
+
+    fix addressbook perlu tindak lanjut dan buat surat, edit pdf card
+
+[33mcommit 6a3b50b9ec4fa3c1b940ffe0d41178bb8679c8e7[m
+Author: algha3 <anaufalhz03@gmail.com>
+Date:   Fri Apr 26 08:36:11 2024 +0700
+
+    add single and multiple select data in addressbook
+
+[33mcommit 4df104021da8488865de602dd85fc29300bf7989[m
+Author: algha3 <anaufalhz03@gmail.com>
+Date:   Thu Apr 25 12:43:46 2024 +0700
+
+    update
+
+[33mcommit d097f1b15914092c6725f5903019dc01bca01399[m
+Merge: def15bd 8ef33f4
+Author: algha3 <anaufalhz03@gmail.com>
+Date:   Thu Apr 25 12:40:18 2024 +0700
+
+    Merge remote-tracking branch 'origin/Fadly' into algha
+
+[33mcommit 8ef33f4dd75149cc9f56f6de2110baffa2237198[m
+Author: tfadlyr <tariq.fadly@gmail.com>
+Date:   Thu Apr 25 11:06:16 2024 +0700
+
+    border radius
+
+[33mcommit 3e43850de2d7be7c97bcf5c324328a5f489e7fb3[m
+Author: tfadlyr <tariq.fadly@gmail.com>
+Date:   Thu Apr 25 10:39:50 2024 +0700
+
+    fix sizing
+
+[33mcommit 548a05b6006ea02b6f30ab48d0af8a002d2b9fee[m
+Author: tfadlyr <tariq.fadly@gmail.com>
+Date:   Thu Apr 25 09:58:49 2024 +0700
+
+    fix ui on sekre and dele list
+
+[33mcommit def15bddcda419a4cd3506a01a8d8c8bf04026e3[m
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Wed Apr 24 16:31:09 2024 +0700
+
+    new dev
+
+[33mcommit 17dde2b0bed0ca2b805690bf0c563edc8f1a5e96[m
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Wed Apr 24 16:24:08 2024 +0700
+
+    add pdf to disposisi
+
+[33mcommit 2b871797a5f0a7fbf62234659666a2c5ed048c96[m
+Merge: 49a7812 075f308
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Wed Apr 24 16:14:05 2024 +0700
+
+    Merge remote-tracking branch 'origin/dimas' into dev
+
+[33mcommit 49a78123c585237127659c826a26c505d23a8ea6[m
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Wed Apr 24 14:10:47 2024 +0700
+
+    bug alamat
+
+[33mcommit c4644d470c837d910e2a155c04dfba62e8470492[m
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Wed Apr 24 11:37:41 2024 +0700
+
+    fix bug adress book kepada
+
+[33mcommit 96f871a41fc7fb709c54c132b9d08cda867a4cce[m
+Merge: c17e091 5ce0fab
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Wed Apr 24 09:07:45 2024 +0700
+
+    Merge remote-tracking branch 'origin/vii' into dev
+
+[33mcommit 5ce0fab73f8c757b2aa45069036db17cb2a2f811[m
+Author: Vil <v.andhira16@gmail.com>
+Date:   Wed Apr 24 09:05:43 2024 +0700
+
+    add address book component
+
+[33mcommit c17e091cd3f4637b81e282dcce90847db12f0154[m
+Merge: b273c3a c44abe9
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Wed Apr 24 09:01:53 2024 +0700
+
+    Merge remote-tracking branch 'origin/vii' into dev
+
+[33mcommit b273c3a184428eb43b61f930e272e6ae2f74ce36[m
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Wed Apr 24 09:00:32 2024 +0700
+
+    add function addresbook to textfield
+
+[33mcommit 075f30804cba2f49713177d90220a304db30900f[m
+Author: dimassan347 <dimas.sentosa86@gmail.com>
+Date:   Tue Apr 23 23:10:19 2024 +0700
+
+    dimas
+
+[33mcommit 140e2cedabfb613068fe89d93d624972c70af4ce[m
+Merge: 5328137 8b8aec2
+Author: dimassan347 <dimas.sentosa86@gmail.com>
+Date:   Tue Apr 23 21:46:42 2024 +0700
+
+    Merge branch 'Henshammi' of https://gitea-infra.apps.osc.coofis.com/coofis/frontend into dimas
+
+[33mcommit 5328137a703057147e9653b288464cbdadef6619[m
+Author: dimassan347 <dimas.sentosa86@gmail.com>
+Date:   Tue Apr 23 21:46:07 2024 +0700
+
+    dimas
+
+[33mcommit 34374c9e0248af906e392d2425df855cb6f02343[m
+Author: tfadlyr <tariq.fadly@gmail.com>
+Date:   Tue Apr 23 19:44:44 2024 +0700
+
+    fix filter placement
+
+[33mcommit 5e6365680d3d8cc713cc340cf0c6ebe8e6764d6c[m
+Author: tfadlyr <tariq.fadly@gmail.com>
+Date:   Tue Apr 23 19:43:34 2024 +0700
+
+    add filter
+
+[33mcommit 3ad8f456f08c112f9641136d852984aef5a470eb[m
+Author: tfadlyr <tariq.fadly@gmail.com>
+Date:   Tue Apr 23 17:52:06 2024 +0700
+
+    add addressbook
+
+[33mcommit 70dc269841787ba3ee8e19f91399ccf182fbef0d[m
+Merge: 34372c3 eb873ee
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Tue Apr 23 16:41:40 2024 +0700
+
+    Merge branch 'algha' of https://gitea-infra.apps.osc.coofis.com/coofis/frontend into Nadhief
+
+[33mcommit 34372c39d1a0f5904382689120d3a723ed02d9e3[m
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Tue Apr 23 16:41:15 2024 +0700
+
+    oke
+
+[33mcommit 971725d340a58d65a9a9ad73561822a5c32d0cab[m
+Author: Vil <v.andhira16@gmail.com>
+Date:   Tue Apr 23 16:12:12 2024 +0700
+
+    update tab buat disposisi + add new form address book component
+
+[33mcommit eb873eed7046d600b145ee10fb2ca02c6f3a3c56[m
+Author: algha3 <anaufalhz03@gmail.com>
+Date:   Tue Apr 23 15:39:34 2024 +0700
+
+    fix and styling address book
+
+[33mcommit 730f35fb75489e98637057234f656955a2614e97[m
+Merge: e0ec2b3 0211e04
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Tue Apr 23 15:25:10 2024 +0700
+
+    Merge remote-tracking branch 'origin/Henshammi' into Nadhief
+
+[33mcommit 8b8aec2317f0a9b8a2b61dc29f7f43aa498b9294[m
+Author: henshammi <henshammi@gmail.com>
+Date:   Tue Apr 23 15:21:12 2024 +0700
+
+    update
+
+[33mcommit e0ec2b3d8cae6672604f6b421ed76c2aa4b34dd1[m
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Tue Apr 23 15:13:53 2024 +0700
+
+    fix bug
+
+[33mcommit c3e358721a89e6a694956b8d2e956d7692e05b8b[m
+Author: henshammi <henshammi@gmail.com>
+Date:   Tue Apr 23 15:12:57 2024 +0700
+
+    update
+
+[33mcommit 0211e0437c0ed01dde54a604ce25dd9ac852db9f[m
+Author: henshammi <henshammi@gmail.com>
+Date:   Tue Apr 23 15:07:04 2024 +0700
+
+    update
+
+[33mcommit bb00e69036f2517b21fd1c7a241e5dc3238cbc7b[m
+Author: henshammi <henshammi@gmail.com>
+Date:   Tue Apr 23 14:48:54 2024 +0700
+
+    update
+
+[33mcommit 8b93ad87249252f2699760caf2a8a35987d9ec2d[m
+Author: algha3 <anaufalhz03@gmail.com>
+Date:   Tue Apr 23 14:25:27 2024 +0700
+
+    fix address book
+
+[33mcommit c44abe968058c86cf8da86fa910aeb7b94c2dcb1[m
+Author: Vil <v.andhira16@gmail.com>
+Date:   Tue Apr 23 14:24:34 2024 +0700
+
+    update tab Buat Disposisi
+
+[33mcommit b8654fe28fb0679311d8513dc726c676d377271c[m
+Merge: fee4f46 1a6a45a
+Author: Vil <v.andhira16@gmail.com>
+Date:   Tue Apr 23 14:23:58 2024 +0700
+
+    Merge branch 'dev' into vii AND fix tab BuatDisposisi
+
+[33mcommit 601c27f13faba5a6d48e153a19187d17c4d9dce2[m
+Author: henshammi <henshammi@gmail.com>
+Date:   Tue Apr 23 14:12:56 2024 +0700
+
+    update
+
+[33mcommit cbe8ff88adfe264b2d74399c109868b24e9d196e[m
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Tue Apr 23 13:59:57 2024 +0700
+
+    oke
+
+[33mcommit 5233ab58c9e22b9a29282ec693574f82fb763d6a[m
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Tue Apr 23 13:34:57 2024 +0700
+
+    update code
+
+[33mcommit cda18b3a7dc6b892e770898d933cf16edd5447fb[m
+Author: Nadhief Athallah Isya <nadhiefathallahi@gmail.com>
+Date:   Tue Apr 23 13:29:04 2024 +0700
+
+    add content sidebar surat diminta, terkirim, dibatalkan
+
+[33mcommit 5f795232d32b02574ab356365604c9366029acc5[m
+Author: tfadlyr <tariq.fadly@gmail.
